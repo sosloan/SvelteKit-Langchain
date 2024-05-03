@@ -19,33 +19,27 @@
     },
     "build": {
       "name": "build",
-      "command": "yarn build",
-      "runAtStart": false
+      "command": "yarn build"
     },
     "preview": {
       "name": "preview",
-      "command": "yarn preview",
-      "runAtStart": false
+      "command": "yarn preview"
     },
     "check": {
       "name": "check",
-      "command": "yarn check",
-      "runAtStart": false
+      "command": "yarn check"
     },
     "check:watch": {
       "name": "check:watch",
-      "command": "yarn check:watch",
-      "runAtStart": false
+      "command": "yarn check:watch"
     },
     "lint": {
       "name": "lint",
-      "command": "yarn lint",
-      "runAtStart": false
+      "command": "yarn lint"
     },
     "format": {
       "name": "format",
-      "command": "yarn format",
-      "runAtStart": false
+      "command": "yarn format"
     },
     "install": {
       "name": "install dependencies",
